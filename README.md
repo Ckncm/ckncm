@@ -32,7 +32,7 @@ https://play.google.com/store/apps/details?id=com.gersonpm.calet&hl=es_GT&pli=1
 
 ### 🔗 ¡Conectemos!
 
-* 🌐 **Portafolio:** [Añade el link a tu portafolio aquí](https://tu-link-aqui.com)
+* 🌐 **Portafolio:**
 * 🎨 **Arte / Trabajo Creativo:** https://ckncm.github.io/portafolio_erick_cua/
 
 ---
